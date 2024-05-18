@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { 
+      "source": "/301-redirect",
+      "destination": "https://app.polytomic-staging.com/changestream/d762a957-0910-446b-bdc4-c75b0d0a79e3/3e5c243d-e4f8-422c-8375-e1e97acf229c", 
+      "statusCode": 301
+    },
+    { 
+      "source": "/308-redirect",
+      "destination": "https://app.polytomic-staging.com/changestream/d762a957-0910-446b-bdc4-c75b0d0a79e3/3e5c243d-e4f8-422c-8375-e1e97acf229c", 
+      "permanent": true
+    }    
+  ]
+}
